@@ -12,4 +12,4 @@ export default function init(props: AutProps){
                 <input type={props.tipo ?? "text"} className="rounded-lg bg-gray-200 border focus:bg-white focus:outline-none focus:border-blue-500 px-4 py-3"/>
             </div>
     )
-}   
+}    
